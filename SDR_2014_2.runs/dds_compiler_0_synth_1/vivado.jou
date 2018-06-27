@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Fri Apr 06 22:54:54 2018
+# Process ID: 7640
+# Log file: E:/duc/freelancer/042018/SDR/SDR_2014_2/SDR_2014_2.runs/dds_compiler_0_synth_1/dds_compiler_0.vds
+# Journal file: E:/duc/freelancer/042018/SDR/SDR_2014_2/SDR_2014_2.runs/dds_compiler_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source dds_compiler_0.tcl
